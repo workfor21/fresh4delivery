@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415684283465",
+    "project_id": "fresh4delivery-c91d5",
+    "storage_bucket": "fresh4delivery-c91d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415684283465:android:9ffc4fefdae11cbfea8398",
+        "android_client_info": {
+          "package_name": "com.example.fresh4delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415684283465-i26q361988ellveck5nee0juariiclq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdvMJ9tn3CQbkGc0TLeUoUhx6Ab0Umf-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415684283465-i26q361988ellveck5nee0juariiclq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

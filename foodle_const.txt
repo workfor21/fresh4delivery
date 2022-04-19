@@ -1,0 +1,13 @@
+BoxDecoration(
+                      gradient: LinearGradient(
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                          colors: <Color>[
+                    Color.fromRGBO(166, 206, 57, 1),
+                    Color.fromRGBO(72, 170, 152, 1)
+                  ]))
+
+Color.fromRGBO(246, 219, 59, 1),
+Color.fromARGB(255, 246, 227, 59),
+
+title: Image.asset("assets/images/foodle_logo.png", width: 90),
